@@ -116,7 +116,7 @@ class AACalculator {
 	}
 }
 
-
+/*
 let aa = new AACalculator()
 aa.assignPersonCost("小强", 20.8);
 aa.assignPersonCost("张三", 10.5);
@@ -127,3 +127,4 @@ aa.assignPersonCost("米老鼠", 0);
 
 results = aa.computeAAResult();
 console.log(results);
+*/
