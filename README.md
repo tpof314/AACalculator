@@ -2,6 +2,12 @@
 
 和朋友一起出去旅游，最后回来要算账，通常会觉得非常麻烦。这是一段专门用来AA的js代码。只要把每个人的花费输入进去，就可以算出一套最后的AA方案。
 
+## 界面版演示
+
+这几天还给这个计算器做了一个界面。点击下面的链接就可以进入：
+
+[http://aashenqi.bitballoon.com](http://aashenqi.bitballoon.com)
+
 ## 使用方法
 
 1. 创建一个“AA计算器”对象.
@@ -33,4 +39,3 @@ console.log(results);
   { from: '张三', to: '赵四', amount: 16.75 },
   { from: '小强', to: '赵四', amount: 6.45 } ]
 ```
-
