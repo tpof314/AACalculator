@@ -6,7 +6,7 @@
 
 这几天还给这个计算器做了一个界面。点击下面的链接就可以进入：
 
-[http://aashenqi.bitballoon.com](http://aashenqi.bitballoon.com)
+[https://aa.dgcontinent.com/](https://aa.dgcontinent.com/)
 
 ## 使用方法
 
